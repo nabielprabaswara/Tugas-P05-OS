@@ -1,0 +1,5 @@
+    PID COMMAND          NI PRI
+   2088 sleep             0  19
+2088 (process ID) old priority 0, new priority 5
+    PID COMMAND          NI PRI
+   2088 sleep             5  14

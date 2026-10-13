@@ -1,0 +1,6 @@
+so26-25+    1828  0.0  0.2   7536  3976 pts/0    S    16:50   0:00 bash src/dummy_worker.sh
+so26-25+    1877  0.0  0.2   7536  3980 pts/0    S    16:51   0:00 bash src/dummy_worker.sh
+so26-25+    1897  0.0  0.1   6716  2660 pts/0    S+   16:51   0:00 grep --color=auto dummy_worker
+so26-25+    1828    1476  0 16:50 pts/0    00:00:00 bash src/dummy_worker.sh
+so26-25+    1877    1476  0 16:51 pts/0    00:00:00 bash src/dummy_worker.sh
+so26-25+    1904    1476  0 16:51 pts/0    00:00:00 grep --color=auto dummy_worker
